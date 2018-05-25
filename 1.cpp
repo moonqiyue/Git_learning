@@ -5,5 +5,6 @@ int main() {
 	cout<<"hello world"<<endl;
 	return 0;
 	cout<<"1"<<"2";
-	cout<<"3";
+	cout<<"3"<<endl;
+	cout<<"dev"<<"1";
 }
