@@ -9,5 +9,5 @@ int main() {
 	cout<<"dev"<<"1";
 	cout<<"dev"<<"2";
 	
-	cout<<"change on master"<<endl;
+	cout<<"change on dev"<<endl;
 }
